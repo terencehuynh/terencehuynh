@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a software engineer based in Melbourne, Australia. I currently work at [Localz](https://localz.com), but you might also know me from [TechGeek](https://techgeek.com.au), [UNIHACK Melbourne](https://unihack.net) and/or [JuniorDev Melbourne](https://juniordev.io).
+
+[whoami](https://terencehuynh.com/about/)
+
+### How to reach me
+
+You can find me on [Twitter (@terencehuynh, preferred)](https://twitter.com/terencehuynh) or [Instagram](https://instagram.com/terencehuynh). Alternatively, you can contact me through what's listed on [my website](https://terencehuynh.com/contact/).
+
 <!--
 **terencehuynh/terencehuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
