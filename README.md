@@ -1,12 +1,15 @@
-### Hi there 👋
+<h2 align="center">Oh hey, my name is Terence. 👋</h3>
 
-I'm a software engineer based in Melbourne, Australia. I currently work at [Localz](https://localz.com), but you might also know me from [TechGeek](https://techgeek.com.au), [UNIHACK Melbourne](https://unihack.net) and/or [JuniorDev Melbourne](https://juniordev.io).
+<h4 align="center">I'm a software engineer based in Melbourne, Australia. I currently work at <a href="https://localz.com">Localz</a>, but you might also know me from <a href="https://techgeek.com.au">TechGeek</a>, the founder of <a href="https://unihack.net">UNIHACK Melbourne</a> and/or an organiser at <a href="https://juniordev.io">JuniorDev Melbourne</a>.</h4>
 
-[whoami](https://terencehuynh.com/about/)
+<p align="center"><a href="https://terencehuynh.com/about/">whoami</a> • <a href="https://terencehuynh.com/blog">Blog</a> • <a href="https://twitter.com/terencehuynh">Twitter</a> • <a href="https://linkedin.com/in/terencehuynh">LinkedIn</a> • <a href="https://instagram.com/terencehuynh">Instagram</a></p>
 
-### How to reach me
+---
 
-You can find me on [Twitter (@terencehuynh, preferred)](https://twitter.com/terencehuynh) or [Instagram](https://instagram.com/terencehuynh). Alternatively, you can contact me through what's listed on [my website](https://terencehuynh.com/contact/).
+My preferred way of communicating is through Twitter. Alternatively, you can find my email details on [my website](https://terencehuynh.com/contact/). Any story pitch stories should be sent to my TechGeek email address.
+
+_I guess this page will get updated at some point..._
+
 
 <!--
 **terencehuynh/terencehuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
