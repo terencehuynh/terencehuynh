@@ -6,7 +6,7 @@
 
 ---
 
-My preferred way of communicating is through Twitter. Alternatively, you can find my email details on [my website](https://terencehuynh.com/contact/). Any story pitch stories should be sent to my TechGeek email address.
+My preferred way of communicating is through Twitter. Alternatively, you can find my email details on [my website](https://terencehuynh.com/contact/).
 
 _I guess this page will get updated at some point..._
 
