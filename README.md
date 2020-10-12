@@ -1,6 +1,6 @@
 <h2 align="center">Oh hey, my name is Terence. 👋</h3>
 
-<h4 align="center">I'm a software engineer based in Melbourne, Australia. I currently work at <a href="https://localz.com">Localz</a>, but you might also know me from <a href="https://techgeek.com.au">TechGeek</a>, the founder of <a href="https://unihack.net">UNIHACK Melbourne</a> and/or an organiser at <a href="https://juniordev.io">JuniorDev Melbourne</a>.</h4>
+<h4 align="center">I'm a software engineer based in Melbourne, Australia. You might also know me from <a href="https://techgeek.com.au">TechGeek</a>, what I do at <a href="https://unihack.net">UNIHACK Melbourne</a> and/or as an organiser at <a href="https://juniordev.io">JuniorDev Melbourne</a>.</h4>
 
 <p align="center"><a href="https://terencehuynh.com/about/">whoami</a> • <a href="https://terencehuynh.com/blog">Blog</a> • <a href="https://twitter.com/terencehuynh">Twitter</a> • <a href="https://linkedin.com/in/terencehuynh">LinkedIn</a> • <a href="https://instagram.com/terencehuynh">Instagram</a> • <a href="https://buymeacoffee.com/terencehuynh">Buy Me A Coffee</a></p>
 
